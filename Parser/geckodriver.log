@@ -1,0 +1,521 @@
+1537534125276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7uR5qnGmoiKj"
+
+(firefox:12713): Gtk-WARNING **: 15:48:46.840: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12713): Gtk-WARNING **: 15:48:46.840: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537534129219	Marionette	INFO	Listening on port 42807
+1537534129315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537534129446	Marionette	DEBUG	[2147483649] Frame script loaded
+1537534129461	Marionette	DEBUG	[2147483649] Frame script registered
+1537534129568	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537534139601	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537534139626	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534139629	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534139729	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534140158	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534140173	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537534144367	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1537534144367	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1537534144368	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1537534144369	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1537534144370	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1537534144371	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1537534144371	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1537534144372	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1537534144372	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1537534147169	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537534147518	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534147831	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534148102	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534148196	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534149041	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534149042	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534149202	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1537534149203	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1537534149203	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1537534149203	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1537534149204	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1537534149204	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1537534149205	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1537534149205	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1537534149205	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1537534151724	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537534151860	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537534226487	Marionette	INFO	Stopped listening on port 42807
+1537534401331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GTuHvBN1OOME"
+
+(firefox:13035): Gtk-WARNING **: 15:53:22.922: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13035): Gtk-WARNING **: 15:53:22.922: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537534405357	Marionette	INFO	Listening on port 45147
+1537534405459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537534405597	Marionette	DEBUG	[2147483649] Frame script loaded
+1537534405610	Marionette	DEBUG	[2147483649] Frame script registered
+1537534405748	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537534415677	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537534415700	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534415703	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534415803	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534417111	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534417129	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537534421352	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1537534421353	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1537534421353	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1537534421353	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1537534421354	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1537534421354	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1537534421354	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1537534421355	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1537534421356	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1537534424962	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537534425335	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534425668	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534425957	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534426027	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534426554	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534426555	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534426731	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1537534426732	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1537534426732	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1537534426732	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1537534426733	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1537534426734	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1537534426734	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1537534426735	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1537534426735	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1537534427985	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537534428137	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537534428327	Marionette	INFO	Stopped listening on port 45147
+1537534495827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CsIcZE7tpc7j"
+
+(firefox:13284): Gtk-WARNING **: 15:54:57.409: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13284): Gtk-WARNING **: 15:54:57.409: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537534499761	Marionette	INFO	Listening on port 43469
+1537534499852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537534499981	Marionette	DEBUG	[2147483649] Frame script loaded
+1537534499994	Marionette	DEBUG	[2147483649] Frame script registered
+1537534500042	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537534508853	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537534508883	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534508887	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534508997	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534509438	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534509452	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537534522237	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1537534522238	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1537534522240	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1537534522241	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1537534522241	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1537534522242	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1537534522243	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1537534522243	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1537534522244	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1537534532187	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537534533021	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534533821	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534534464	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534534530	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534534988	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534534989	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534535387	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1537534535390	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1537534535392	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1537534535393	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1537534535395	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1537534535396	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1537534535397	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1537534535398	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1537534535399	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1537534540595	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537534540759	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537534540948	Marionette	INFO	Stopped listening on port 43469
+[Parent 13284, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537534619326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LEb2SCUkJQFc"
+
+(firefox:13559): Gtk-WARNING **: 15:57:00.926: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13559): Gtk-WARNING **: 15:57:00.926: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537534623450	Marionette	INFO	Listening on port 33163
+1537534623588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537534623724	Marionette	DEBUG	[2147483649] Frame script loaded
+1537534623726	Marionette	DEBUG	[2147483649] Frame script registered
+1537534623845	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537534652450	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537534652466	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534652470	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534652566	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534652994	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534653008	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537534662428	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1537534662429	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1537534662429	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1537534662429	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1537534662430	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1537534662431	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1537534662432	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1537534662432	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1537534662433	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1537534667751	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537534668104	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534668420	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534668686	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534668756	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534669561	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534669562	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534669714	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1537534669714	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1537534669715	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1537534669715	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1537534669715	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1537534669715	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1537534669716	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1537534669716	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1537534669716	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1537534672298	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537534672438	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537534672583	Marionette	INFO	Stopped listening on port 33163
+1537534793456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9fGDjL43L8FG"
+
+(firefox:13878): Gtk-WARNING **: 15:59:55.037: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13878): Gtk-WARNING **: 15:59:55.037: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537534797290	Marionette	INFO	Listening on port 40075
+1537534797408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537534797538	Marionette	DEBUG	[2147483649] Frame script loaded
+1537534797542	Marionette	DEBUG	[2147483649] Frame script registered
+1537534797586	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537534836935	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537534836939	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537534837029	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=https%3A//laboral.pjud.cl/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20laboral.pjud.cl.
+[Parent 13878, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537534929713	Marionette	INFO	Stopped listening on port 40075
+1537534933011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8uwRDoNQtvFC"
+
+(firefox:14160): Gtk-WARNING **: 16:02:14.519: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14160): Gtk-WARNING **: 16:02:14.519: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537534936672	Marionette	INFO	Listening on port 45177
+1537534936761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537534936892	Marionette	DEBUG	[2147483649] Frame script loaded
+1537534936896	Marionette	DEBUG	[2147483649] Frame script registered
+1537534936952	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537534942096	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537534942117	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534942119	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534942207	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534942672	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537534942689	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537534946215	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1537534946215	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1537534946216	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1537534946217	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1537534946217	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1537534946218	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1537534946218	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1537534946218	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1537534946219	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1537534949086	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537534949453	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534949767	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534950043	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537534950114	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534950909	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534950910	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537534951076	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1537534951077	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1537534951077	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1537534951078	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1537534951079	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1537534951079	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1537534951079	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1537534951080	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1537534951080	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1537534952066	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537534952200	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537534952335	Marionette	INFO	Stopped listening on port 45177
+1537535797365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aRbfSnQ42qkw"
+
+(firefox:14741): Gtk-WARNING **: 16:16:38.983: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14741): Gtk-WARNING **: 16:16:38.983: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537535801197	Marionette	INFO	Listening on port 44907
+1537535801317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537535801455	Marionette	DEBUG	[2147483649] Frame script loaded
+1537535801459	Marionette	DEBUG	[2147483649] Frame script registered
+1537535801517	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537535807747	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537535807780	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537535807783	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537535807896	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537535809033	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537535809050	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537535816615	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1537535816616	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1537535816616	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1537535816617	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1537535816618	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1537535816619	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1537535816619	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1537535816619	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1537535816620	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1537535830248	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537535830616	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537535830933	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537535831204	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537535831274	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537535831693	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537535831693	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537535831868	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1537535831869	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1537535831869	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1537535831871	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1537535831872	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1537535831872	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1537535831872	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1537535831873	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1537535831873	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1537535836027	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537535836163	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537535836334	Marionette	INFO	Stopped listening on port 44907
+1537535935726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cRRfQMLxnEa1"
+
+(firefox:15020): Gtk-WARNING **: 16:18:57.322: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15020): Gtk-WARNING **: 16:18:57.322: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537535939844	Marionette	INFO	Listening on port 38297
+1537535939961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537535940109	Marionette	DEBUG	[2147483649] Frame script loaded
+1537535940111	Marionette	DEBUG	[2147483649] Frame script registered
+1537535940241	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537535950405	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537535950433	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537535950437	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537535950563	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537535950957	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537535950974	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537535958207	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1537535958207	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1537535958208	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1537535958208	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1537535958209	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1537535958209	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1537535958210	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1537535958211	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1537535958211	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1537535963329	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537535963689	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537535964005	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537535964275	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537535964347	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537535964847	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537535964847	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537535965009	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1537535965009	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1537535965009	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1537535965010	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1537535965011	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1537535965011	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1537535965012	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1537535965012	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1537535965012	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1537535968805	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537535968945	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537535969081	Marionette	INFO	Stopped listening on port 38297
+1537536858452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n9CZ97B2NInQ"
+
+(firefox:15651): Gtk-WARNING **: 16:34:19.964: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15651): Gtk-WARNING **: 16:34:19.964: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537536862100	Marionette	INFO	Listening on port 36201
+1537536862211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537536862351	Marionette	DEBUG	[2147483649] Frame script loaded
+1537536862354	Marionette	DEBUG	[2147483649] Frame script registered
+1537536862402	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537536882445	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537536882450	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537536882543	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=https%3A//laboral.pjud.cl/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20laboral.pjud.cl.
+1537536883603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KqR8fN0RDKmg"
+
+(firefox:15838): Gtk-WARNING **: 16:34:45.135: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15838): Gtk-WARNING **: 16:34:45.135: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537536887685	Marionette	INFO	Listening on port 38297
+1537536887748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537536887867	Marionette	DEBUG	[2147483649] Frame script loaded
+1537536887871	Marionette	DEBUG	[2147483649] Frame script registered
+1537536887939	Marionette	INFO	Stopped listening on port 38297
+1537536888005	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1588:20
+_shutdown@XPIProvider.jsm:1724:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 197: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 197: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_next
+[Parent 15651, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537536896522	Marionette	INFO	Stopped listening on port 36201
+1537537800469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qLrRQfXS1mJf"
+
+(firefox:16264): Gtk-WARNING **: 16:50:02.068: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16264): Gtk-WARNING **: 16:50:02.068: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537537804439	Marionette	INFO	Listening on port 44501
+1537537804498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537537804646	Marionette	DEBUG	[2147483649] Frame script loaded
+1537537804665	Marionette	DEBUG	[2147483649] Frame script registered
+1537537804707	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537537812456	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537537812485	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537537812489	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537537812589	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537537813043	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537537813062	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537537823254	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1537537823255	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1537537823256	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1537537823257	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1537537823257	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1537537823258	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1537537823258	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1537537823258	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1537537823259	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1537537831334	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537537831693	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537537832005	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537537832274	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537537832342	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537537832752	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537537832753	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537537832918	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1537537832919	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1537537832919	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1537537832920	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1537537832920	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1537537832921	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1537537832921	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1537537832921	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1537537832922	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1537537837858	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537537837996	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537537838138	Marionette	INFO	Stopped listening on port 44501
+1537538551328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rabp41jQFAnK"
+
+(firefox:16832): Gtk-WARNING **: 17:02:33.020: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16832): Gtk-WARNING **: 17:02:33.020: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537538555161	Marionette	INFO	Listening on port 34767
+1537538555295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537538555429	Marionette	DEBUG	[2147483649] Frame script loaded
+1537538555454	Marionette	DEBUG	[2147483649] Frame script registered
+1537538555603	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537538561342	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537538561365	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537538561368	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537538561455	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537538561913	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537538561926	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537538566302	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1537538566303	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1537538566303	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1537538566304	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1537538566305	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1537538566305	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1537538566305	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1537538566306	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1537538566306	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1537538568302	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537538568666	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537538568980	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537538569256	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537538569321	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537538569813	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537538569814	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537538569977	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1537538569977	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1537538569977	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1537538569979	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1537538569979	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1537538569980	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1537538569980	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1537538569980	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1537538569981	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1537538573313	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537538573451	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537538573671	Marionette	INFO	Stopped listening on port 34767
+1537538594187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7wZbbSfGXK3D"
+
+(firefox:17081): Gtk-WARNING **: 17:03:15.692: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17081): Gtk-WARNING **: 17:03:15.692: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537538598045	Marionette	INFO	Listening on port 39977
+1537538598129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537538598251	Marionette	DEBUG	[2147483649] Frame script loaded
+1537538598254	Marionette	DEBUG	[2147483649] Frame script registered
+1537538598359	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537538618431	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537538618434	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537538618531	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=https%3A//laboral.pjud.cl/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20laboral.pjud.cl.
+1537538618564	Marionette	INFO	Stopped listening on port 39977
+[Parent 17081, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537539167144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hhVPJqOVwvhZ"
+
+(firefox:17508): Gtk-WARNING **: 17:12:48.713: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17508): Gtk-WARNING **: 17:12:48.713: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1537539171429	Marionette	INFO	Listening on port 38293
+1537539171469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537539171606	Marionette	DEBUG	[2147483649] Frame script loaded
+1537539171609	Marionette	DEBUG	[2147483649] Frame script registered
+1537539171664	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1537539188578	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1537539188606	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537539188609	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537539188707	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537539189928	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/jsp/LoginPortal/LoginPortal.jsp
+1537539189943	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537539193633	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1537539193633	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1537539193634	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1537539193634	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1537539193635	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1537539193636	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1537539193637	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1537539193637	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1537539193638	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1537539207748	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/InicioAplicacionPortal.do
+1537539208109	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537539208425	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537539208697	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1537539208767	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537539211895	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537539211895	Marionette	DEBUG	[2147483649] Received DOM event unload for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoViewAccion.do?tipoMenuATP=1
+1537539212062	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1537539212062	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1537539212063	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1537539212063	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1537539212063	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1537539212064	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1537539212064	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1537539212064	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1537539212064	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1537539220841	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537539220967	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://laboral.pjud.cl/SITLAPORWEB/AtPublicoDAction.do
+1537539221157	Marionette	INFO	Stopped listening on port 38293
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
