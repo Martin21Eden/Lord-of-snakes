@@ -28,3 +28,16 @@ ERROR:root:Function: save_csv, Catched error: iterable expected, not NoneType!
 INFO:root:Function: selenium_flow, Description: Launch browser with the help of selenium and get html with data
 INFO:root:Function: soup_flow, Description: Select data from html and save them in list
 INFO:root:Function: save_csv, Description: Save data in csv
+INFO:root:Function: create_list_dict_courts, Description: Create list and dict of courts from html
+INFO:root:Function: selenium_flow, Description: Launch browser with the help of selenium and get html with data
+INFO:root:Function: soup_flow, Description: Select data from html and save them in list
+INFO:root:Function: save_csv, Description: Save data in csv
+INFO:root:Function: create_list_dict_courts, Description: Create list and dict of courts from html
+ERROR:root:Function: selenium_flow, Catched error: 'Juzgado de Letras del Trabajo defbfgb'!
+ERROR:root:Function: soup_flow, Catched error: 'NoneType' object has no attribute 'get_attribute'!
+ERROR:root:Function: save_csv, Catched error: iterable expected, not NoneType!
+ERROR:root:Function: selenium_flow, Catched error: Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//laboral.pjud.cl/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20laboral.pjud.cl.
+!
+ERROR:root:Function: soup_flow, Catched error: 'NoneType' object has no attribute 'get_attribute'!
+ERROR:root:Function: save_csv, Catched error: iterable expected, not NoneType!
+INFO:root:Function: create_list_dict_courts, Description: Create list and dict of courts from html
